@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">1July_Scroll_View</string>
+    <string name="enter_the_name">Enter the Name</string>
+    <string name="enter_the_id">Enter the ID</string>
+    <string name="enter_the_DOB">Enter the Date of Birth</string>
+    <string name="enter_the_blood_group">Enter the Blood Group</string>
+    <string name="enter_phone_number">Enter the Phone Number</string>
+    <string name="enter_state">Enter your State</string>
+    <string name="enter_district">Enter your District</string>
+    <string name="enter_address">Enter Your Address</string>
+
+</resources>

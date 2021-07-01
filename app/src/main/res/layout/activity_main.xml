@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            style="@style/customeSEdittext"
+            android:hint="@string/enter_the_name" />
+
+
+        <EditText
+            style="@style/customeSEdittext"
+            android:hint="@string/enter_the_id" />
+
+        <EditText
+            style="@style/customeSEdittext"
+            android:hint="@string/enter_the_DOB" />
+
+        <EditText
+            style="@style/customeSEdittext"
+            android:hint="@string/enter_the_blood_group" />
+
+        <EditText
+            style="@style/customeSEdittext"
+            android:hint="@string/enter_phone_number" />
+
+        <EditText
+            style="@style/customeSEdittext"
+            android:hint="@string/enter_district" />
+
+        <EditText
+            style="@style/customeSEdittext"
+            android:hint="@string/enter_state" />
+
+        <EditText
+            style="@style/customeSEdittext"
+            android:hint="@string/enter_address" />
+
+    </LinearLayout>
+
+</ScrollView>
